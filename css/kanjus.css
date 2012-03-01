@@ -25,3 +25,6 @@ li ul li{
 .background .heading {
 	font-size: 4em;
 }
+.background {
+	width: 5000px;
+}
