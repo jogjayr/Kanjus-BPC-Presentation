@@ -17,8 +17,11 @@
 }
 ul {
 	font-size: 1em;
+	text-decoration: none;
 }
-
+li {
+	text-decoration: none;
+}
 li ul li{
 	font-size: 0.8em;
 }
